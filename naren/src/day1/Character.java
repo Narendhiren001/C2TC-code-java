@@ -1,4 +1,4 @@
-package naren;
+package day1;
 
 public class Character {
 	public static void main(String[] args) {
